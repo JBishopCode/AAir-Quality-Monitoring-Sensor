@@ -1,0 +1,52 @@
+[
+    {
+        "Humidity": "31.0",
+        "Temperature": "25.0",
+        "Pressure": "339.64"
+    },
+    {
+        "Humidity": "31.0",
+        "Temperature": "25.0",
+        "Pressure": "333.64"
+    },
+    {
+        "Humidity": "34.0",
+        "Temperature": "25.0",
+        "Pressure": "340.64"
+    },
+    {
+        "Humidity": "34.0",
+        "Temperature": "25.0",
+        "Pressure": "339.64"
+    },
+    {
+        "Humidity": "30.0",
+        "Temperature": "25.0",
+        "Pressure": "339.64"
+    },
+    {
+        "Humidity": "30.0",
+        "Temperature": "25.0",
+        "Pressure": "340.64"
+    },
+    {
+        "Humidity": "30.0",
+        "Temperature": "25.0",
+        "Pressure": "343.64"
+    },
+    {
+        "Humidity": "30.0",
+        "Temperature": "25.0",
+        "Pressure": "342.64"
+    },
+    {
+        "Humidity": "30.0",
+        "Temperature": "25.0",
+        "Pressure": "340.64"
+    },
+    {
+        "Humidity": "30.0",
+        "Temperature": "25.0",
+        "Pressure": "342.64"
+    }
+]
